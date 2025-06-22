@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://adityashriwas.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://aadityashriwas.vercel.app/)
 
 - 📫 How to reach me **adityashriwas09@gmail.com**
 <h3 align="left">About me:</h3>
