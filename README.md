@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityashriwas&label=Profile%20views&color=0e75b6&style=flat" alt="adityashriwas" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://aadityashriwas.vercel.app/)
 
