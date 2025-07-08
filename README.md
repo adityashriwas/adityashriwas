@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://aadityashriwas.vercel.app/)
+- 👨‍💻 All of my projects are available at [aadityashriwas.vercel.app](https://aadityashriwas.vercel.app/)
 
 - 📫 How to reach me **adityashriwas09@gmail.com**
 <h3 align="left">About me:</h3>
