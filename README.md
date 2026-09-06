@@ -3,7 +3,8 @@
 
 <h3 align="left">About me:</h3>
 
-<p align="left">👋 Hi there! I'm Aditya Shriwas, a passionate tech enthusiast and aspiring software engineer. Currently pursuing my studies in B Tech Computer Science. My programming journey began in 2021, and since then, I’ve been on an exciting learning path, honing my skills in web technologies. I'm also skilled in C++ and Java programming. Currently, I am focused on Full Stack Development, but I am eager to expand my expertise and eventually transition into a full-fledged software engineer role. Feel free to reach out to me for collaborations or tech discussions! </p>
+<p align="left">👋 Hi there! I'm Aditya Shriwas, a passionate tech enthusiast and Software Engineer. I have completed my B.Tech in Computer Science. My programming journey began in 2021, and since then, I’ve been on an exciting learning path, gaining hands-on experience in Full Stack Development and Mobile Application Development. I also have professional industry experience, where I’ve worked on real-world applications and learned how software is built and delivered in a professional environment. I’m always looking to expand my expertise, take on new challenges, and grow as a software engineer. Feel free to reach out to me for collaborations or tech discussions!
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
